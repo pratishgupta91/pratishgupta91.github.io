@@ -2,7 +2,7 @@
 layout: post
 title:  "WW1 for dummies"
 date:   2016-01-29 10:56:44 +0530
-tags:   World war, History
+tags:   [World war, History]
 comments: True
 ---
 

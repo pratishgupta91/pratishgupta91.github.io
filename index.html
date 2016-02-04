@@ -13,9 +13,9 @@ comments: False
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">{{ post.date | date_to_string }} &#183; {{ post.content | number_of_words }} words</span>
 
-    {{ post.content | truncatewords:75}}
+    {{ post.content | truncatewords:40}}
     <a href="{{ post.url }}">Read more...</a><br><br>
     <hr/>
   </div>
