@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            42
 tagline:          'A Jekyll theme'
-description:      'Things for starters'
+description:      'Poetry for starters'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
