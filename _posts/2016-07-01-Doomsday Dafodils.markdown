@@ -17,6 +17,11 @@ Colossal carcasses, no footsteps found.
 Invisible riders on merry-go-round.   
 No sound, no sound.   
    
+Metallic seas devouring fast   
+From the deeds of our witless past.   
+Leading towards the nebula blast.   
+Holocaust! Holocaust!   
+   
 Shiny stars standing far.   
 Smelling poison from our evil cigar.   
 No resurrection, only war.   
