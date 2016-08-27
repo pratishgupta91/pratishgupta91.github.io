@@ -352,6 +352,35 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
+.post-continue-read {
+  background-color:#F0F0F0;
+  display: block;
+  cursor:pointer;
+  color:#000000;
+  font-size:17px;
+  padding:7px 19px;
+  width: 165px;
+  text-decoration:none;
+}
+
+.post-continue-read:hover {
+  background-color: #E0E0E0 ;
+}
+
+.post-continue-read:active {
+  position:relative;
+  top:1px;
+}
+
+.post-continue-read a {
+  color:#303030;
+  text-decoration: none;
+}
+
+.post-continue-read a:hover {
+  text-decoration: none;
+}
+
 /* Related posts */
 .related {
   padding-top: 2rem;
