@@ -8,8 +8,8 @@ relative_permalinks: false
 
 # Setup
 title:            'Canvas'
-tagline:          'Poetry for starters'
-description:      'Poetry for starters'
+tagline:          'Poems on time travel, romance and first world problems'
+description:      'Poems on time travel, romance and first world problems'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
