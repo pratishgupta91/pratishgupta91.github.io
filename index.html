@@ -16,7 +16,8 @@ comments: False
     <span class="post-date">{{ post.date | date_to_string }} &#183; {{ post.content | number_of_words }} words</span>
 
     {{ post.content | truncatewords:30}}
-    <a href="{{ post.url }}">Read more...</a><br><br>
+    <div class="post-continue-read"><a href="{{ post.url }}">Continue reading</a></div>
+    <br>
     <hr/>
   </div>
   {% endfor %}

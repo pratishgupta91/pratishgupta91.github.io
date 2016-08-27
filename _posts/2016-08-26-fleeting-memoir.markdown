@@ -46,4 +46,4 @@ He died like a fool.
 His lady was still pretty   
 Like a cheery crescent moon.   
    
-Alas! he died too soon.   
+Alas! he died too soon.
