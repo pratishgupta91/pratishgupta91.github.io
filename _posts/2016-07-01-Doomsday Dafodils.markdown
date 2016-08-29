@@ -6,11 +6,10 @@ tags:   [Poerty, Philosophy]
 comments: True
 ---
 
-Standing tall   
-All around. Gulping green   
-All around. Shedding sulfur   
-All around. Killing killing   
-All around.   
+Standing tall all around.   
+Gulping green all around.   
+Shedding sulfur all around.   
+Killing killing all around.   
    
 Rusty rainbows in brown background.   
 Colossal carcasses, no footsteps found.   
@@ -27,8 +26,7 @@ Smelling poison from our evil cigar.
 No resurrection, only war.   
 Red scar, red scar.   
    
-Greedy Gods,   
-We are. Ending races,   
-We are. Making morgues,   
-We are. Doomsday daffodils,   
-We are.   
+Greedy Gods, we are.   
+Ending races, we are.   
+Making morgues, we are.   
+Doomsday daffodils, we are.   
